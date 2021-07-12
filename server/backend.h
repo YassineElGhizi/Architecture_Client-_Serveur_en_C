@@ -1,7 +1,3 @@
-//Encadre Par : Pr M.Aiy kbir
-
-//Devloppe Par : EL GHIZI Yassine - Afkir Hamza
-
 #ifndef BACKEND_H_INCLUDED
     #define BACKEND_H_INCLUDED
 
