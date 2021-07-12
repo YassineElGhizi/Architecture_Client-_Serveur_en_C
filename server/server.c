@@ -1,8 +1,3 @@
-//Encadre Par : Pr M.AIT KBIR
-
-//Devloppe Par : EL GHIZI Yassine - Afkir Hamza
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
